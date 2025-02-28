@@ -1,6 +1,6 @@
 baseURL = 'https://meriter.app/'
 title = 'Personal blog'
-#theme = "hugo-bearcub"
+theme = "hugo-bearcub"
 copyright = "Michał Szeląg (CC BY 4.0)"
 defaultContentLanguage = "en"
 
